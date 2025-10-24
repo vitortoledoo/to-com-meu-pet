@@ -1,4 +1,4 @@
-# To com meu pet — Petshop (Fase 1)
+# To com meu pet (Fase 1)
 
 Site para o trabalho da fase 01 do projeto da matéria de fundamentos do sistema WEB
 
